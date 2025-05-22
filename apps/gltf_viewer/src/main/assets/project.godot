@@ -22,6 +22,8 @@ gdscript/warnings/untyped_declaration=2
 
 [display]
 
+window/size/transparent=true
+window/per_pixel_transparency/allowed=true
 window/handheld/orientation=6
 
 [input_devices]
@@ -33,3 +35,4 @@ pointing/android/enable_pan_and_scale_gestures=true
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
 textures/vram_compression/import_etc2_astc=true
+viewport/transparent_background=true
